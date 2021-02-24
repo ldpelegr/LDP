@@ -1,1 +1,1 @@
-web: gunicorn app:LDP
+web: gunicorn LDP:app
